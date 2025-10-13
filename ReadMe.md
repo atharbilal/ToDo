@@ -9,11 +9,6 @@ A simple **To-Do List application** built using **JavaFX**. It allows users to a
 - Mark tasks as completed with a green tick and bold text.
 - User-friendly interface with input field, buttons, and a list view.
 
-## Screenshots
-
-*(Optional: Add screenshots of your app here)*
-
-## Usage
 
 ### Requirements
 
